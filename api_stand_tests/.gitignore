@@ -1,0 +1,9 @@
+.pytest/
+venv/
+.idea/
+.pytest_cache/
+__pycache__/
+# Ignorar los entornos virtuales
+venv/
+.venv/
+
