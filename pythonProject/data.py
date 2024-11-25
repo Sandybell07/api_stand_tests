@@ -8,6 +8,7 @@ user_body = {
     "address": "123 Elm Street, Hilltop"
 }
 product_ids = {
+    "name": "A"
     "ids": [1, 2, 3]
 }
 
